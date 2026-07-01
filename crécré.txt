@@ -1,0 +1,5 @@
+Client ID:     1052689939961-259ajjjfflu3vfehh518ukirb3jbml02.apps.googleusercontent.com
+
+Client Secret: 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
+
+bouton Download JSON

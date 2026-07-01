@@ -1,0 +1,7 @@
+fastapi>=0.135.0,<0.136.0
+google-api-python-client>=2.190.0
+google-auth>=2.35.0
+google-auth-oauthlib>=1.2.1
+python-dotenv>=1.0.1
+requests>=2.31.0
+uvicorn>=0.30.0

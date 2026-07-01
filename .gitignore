@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.env
+token.json
+venv/
+.vercel
+manager_queue.db
